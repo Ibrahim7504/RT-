@@ -2,6 +2,7 @@
 
 - [À propos](about.md)
 - [Contact](contact.md)
+- [Entreprise](contact.md)
 
 Master trad
 
