@@ -9,8 +9,8 @@
     <h1>Ceci est la Page 1</h1>
     <nav>
         <ul>
-            <li><a href="index.html">Accueil</a></li>
-            <li><a href="page2.html">Page 2</a></li>
+            <li><a href="index.md">Accueil</a></li>
+            <li><a href="page2.md">Page 2</a></li>
         </ul>
     </nav>
 </body>
