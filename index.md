@@ -14,10 +14,10 @@
         <nav>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link" href="page1.html">Page 1</a>
+                    <a class="nav-link" href="page1.md">Page 1</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="page2.html">Page 2</a>
+                    <a class="nav-link" href="page2.md">Page 2</a>
                 </li>
             </ul>
         </nav>
