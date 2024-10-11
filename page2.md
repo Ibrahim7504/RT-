@@ -4,7 +4,7 @@ title: Page2
 ---
 # Recette facile: Tarte aux fraises
 
-![Tarte aux fraises](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
+![Tarte aux fraises](https://assets.afcdn.com/recipe/20161128/32519_w1024h768c1cx2928cy1909.jpg)
 
 | Ustensiles | Temps total: 55min | Tartes |
 | :------------- | :------------: | -------------: |
