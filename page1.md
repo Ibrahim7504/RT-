@@ -2,7 +2,7 @@
 layout: default
 title: Page1
 ---
-
+# Recette facile: Tarte aux pommes
 ![Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
 
 | Ustensiles | Temps total: 55min | Tartes |
@@ -11,7 +11,7 @@ title: Page1
 | Casserole      | Réserve       | Tartes aux poires       |
 | Four       | Cuisson     | Tartes aux fraises       |
 
-### Liste de choses à faire
+## Liste de choses à faire
 
 - [x] Étape 1
       Éplucher et découper en morceaux 4 Golden.
