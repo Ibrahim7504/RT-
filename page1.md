@@ -2,7 +2,7 @@
 layout: default
 title: Page 1
 ---
-![Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg)
+!style="border: 1px solid black; padding: 10px; weight: 20px"[Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
 
 # Ceci est la Page aux pommes
 | Ustensiles      | Temps total: 55min     | 
