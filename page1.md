@@ -5,11 +5,11 @@ title: Page 1
 
 ![Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
 
-# Ceci est la Page aux pommes
-| Ustensiles      | Temps total: 55min | 
-|---|---|
-| Moule à tarte   | Préparation        |
-| Cassorole       | Cuisson            |
+| Ustensiles | Temps total: 55min | Tartes |
+| :------------- | :------------: | -------------: |
+| Moule à tarte       | Préparation       | Tartes aux pommes       |
+| Casserole      | Réserve       | Tartes aux poires       |
+| Four       | Cuisson     | Tartes aux fraises       |
 
 ### Liste de choses à faire
 
