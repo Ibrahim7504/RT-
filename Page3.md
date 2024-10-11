@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Page 1
+---
 
 [Retour à l'accueil](index.md)  
 [Comment faire une tarte aux pommes](page1.md)
