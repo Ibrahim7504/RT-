@@ -38,5 +38,5 @@ title: Page 1
 
 > L'astuce Anti-Gaspi de GoodPlanet : Laver vos épluchures, étalez-les sur une plaque recouverte de papier cuisson avec un peu de sucre et de cannelle, et faites-les croustiller 20 minutes au four à 160°c: voici des chips de pomme, parfaites avec du yaourt, ou en topping de votre tarte ! »
 [Retour à l'accueil](index)  
-[Comment faire une tarte aux fraises](page2)
+[Comment faire une tarte aux fraises](page2) |
 [Comment faire une tarte aux poires](page3)
