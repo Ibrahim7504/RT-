@@ -6,4 +6,5 @@ h1 {
 .special-paragraph {
   color: green;
   font-style: italic;
+  height: 20px;
 }
