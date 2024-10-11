@@ -34,6 +34,8 @@ title: Accueil
 
 </html>
 
+![Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
+
 
 
 [Comment faire une tarte aux pommes](page1)  
