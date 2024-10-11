@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page 1
+title: Page1
 ---
 
 ![Tarte aux pommes](https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg) 
