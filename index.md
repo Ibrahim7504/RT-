@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue sur ma recettes facile
+# Bienvenue recettes facile
 
 
 [Comment faire une tarte aux pommes](page1.md)  
