@@ -3,7 +3,8 @@ layout: default
 title: Page 1
 ---
 
-# Ceci est la Page 1
+# Ceci est la Page aux pommes
 
 [Retour à l'accueil](index.md)  
-[Aller à la Page 2](page2.md)
+[Comment faire une tarte aux pommes](page2.md)
+[Comment faire une tarte aux poires](page3.md)
