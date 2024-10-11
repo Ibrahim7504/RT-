@@ -40,6 +40,6 @@ title: Page2
 
 
 
-[Retour à l'accueil](index)  
-[Comment faire une tarte aux pommes](page1)
+[Retour à l'accueil](index) |
+[Comment faire une tarte aux pommes](page1) |
 [Comment faire une tarte aux poires](page1)
