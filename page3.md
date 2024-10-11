@@ -3,6 +3,6 @@ layout: default
 title: Page 1
 ---
 
-[Retour à l'accueil](index.md)  
-[Comment faire une tarte aux pommes](page1.md)
-[Comment faire une tarte aux fraises](page2.md)
+[Retour à l'accueil](index)  
+[Comment faire une tarte aux pommes](page1)
+[Comment faire une tarte aux fraises](page2)
