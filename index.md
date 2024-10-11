@@ -3,17 +3,14 @@ layout: default
 title: Accueil
 ---
 
-# Bienvenue recettes facile
----
-title: Mon Site
----
+# Bienvenue sur recettes facile
 
-<!DOCTYPE html>
+
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
 </head>
 <body>
 
@@ -24,21 +21,17 @@ title: Mon Site
             <a href="/" style="color: white; text-decoration: none;">Accueil</a>
         </li>
         <li style="display: inline; margin-right: 20px;">
-            <a href="about.html" style="color: white; text-decoration: none;">À propos</a>
+            <a href="page1.md" style="color: white; text-decoration: none;">Faire une tarte aux pommes</a>
         </li>
         <li style="display: inline; margin-right: 20px;">
-            <a href="contact.html" style="color: white; text-decoration: none;">Contact</a>
+            <a href="page2.md" style="color: white; text-decoration: none;">Faire une tarte aux fraises</a>
         </li>
         <li style="display: inline;">
-            <a href="blog.html" style="color: white; text-decoration: none;">Blog</a>
+            <a href="page3" style="color: white; text-decoration: none;">Faire une tarte aux poires</a>
         </li>
     </ul>
 </nav>
 
-<h1>Bienvenue sur mon site</h1>
-<p>Ceci est le contenu de ma page d'accueil.</p>
-
-</body>
 </html>
 
 
