@@ -34,7 +34,7 @@ title: Page 1
 
 > Note de l'auteur :
 
-« > Pour découvrir toutes les infos nutritionnelles de la [pomme ]([URL](https://www.doctissimo.fr/nutrition/famille-d-aliments/guide-aliments/pomme)) rendez-vous sur Doctissimo.
+« > Pour découvrir toutes les infos nutritionnelles de la [pomme ]((https://www.doctissimo.fr/nutrition/famille-d-aliments/guide-aliments/pomme)) rendez-vous sur Doctissimo.
 
 > L'astuce Anti-Gaspi de GoodPlanet : Laver vos épluchures, étalez-les sur une plaque recouverte de papier cuisson avec un peu de sucre et de cannelle, et faites-les croustiller 20 minutes au four à 160°c: voici des chips de pomme, parfaites avec du yaourt, ou en topping de votre tarte ! »
 [Retour à l'accueil](index)  
