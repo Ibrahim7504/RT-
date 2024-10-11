@@ -1,2 +1,5 @@
 title: "Mon site GitHub"
 theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
