@@ -39,6 +39,6 @@ title: Page3
 « > [« Retrouvez-moi sur mon compte Instagram en cliquant ici ! »](https://www.instagram.com/cookbylis/) 
 
 
-[Retour à l'accueil](index)  
-[Comment faire une tarte aux pommes](page1)
+[Retour à l'accueil](index) |
+[Comment faire une tarte aux pommes](page1) |
 [Comment faire une tarte aux poires](page2)
