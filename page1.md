@@ -2,27 +2,6 @@
 layout: default
 title: Page 1
 ---
-<style>
-  .image-resize {
-    width: 100px;
-    height: auto;
-  }
-
-  .special-text {
-    color: red;
-    font-size: 20px;
-    text-align: center;
-  }
-</style>
-
-
-
-<p class="special-text">
-  Ceci est un texte stylisé avec du CSS intégré directement dans le Markdown.
-</p>
-
-<img src="https://(https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg)" alt="Une image" class="image-resize">
-
 
 ![Tarte aux pommes]"(https://1.bp.blogspot.com/-mhvBbzK1v7M/T_cBd2OFFGI/AAAAAAAAAKw/BBSb8yb73Pk/s1600/maxi_10727.jpg)" 
 
